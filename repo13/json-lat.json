@@ -1,0 +1,58 @@
+[
+    {
+        "nim":"1234",
+        "nama":"Agung Suradji",
+        "alamat":"Semarang",
+        "jurusan":"Teknik Informatika",
+        "MK":[
+            {
+                "mk_kode":"101",
+                "nama mk":"SISTEM BASIS DATA"
+            },
+            {
+                "mk_kode":"102",
+                "nama mk":"ALJABAR LINIER"
+            },
+            {
+                "mk_kode":"103",
+                "nama mk":"ANALISA LOGARITMA"
+            },
+            {
+                "mk_kode":"104",
+                "nama mk":"KECERDASAN BUATAN"
+            },
+            {
+                "mk_kode":"105",
+                "nama mk":"JARINGAN KOMPUTER"
+            }
+        ]
+    },
+    {
+        "nim":"1236",
+        "nama":"Mira Rahmawan",
+        "alamat":"Pemalang",
+        "jurusan":"Sistem Informasi",
+        "MK":[
+            {
+                "mk_kode":"301",
+                "nama mk":"ANALISA PROSES BISNIS"
+            },
+            {
+                "mk_kode":"302",
+                "nama mk":"DATABASE TERDISTRIBUSI"
+            },
+            {
+                "mk_kode":"303",
+                "nama mk":"ETIKA PROFESI"
+            },
+            {
+                "mk_kode":"304",
+                "nama mk":"REKAYASA WEB"
+            },
+            {
+                "mk_kode":"305",
+                "nama mk":"AUDIT SISTEM INFORMASI"
+            }
+        ]
+    }
+]
